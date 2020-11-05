@@ -1,0 +1,3 @@
+[submoduble "dslink"]
+    path = dslink
+    url = https://github.com/IOT-DSA/sdk-dslink-c.git
